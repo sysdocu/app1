@@ -1,1 +1,1 @@
-<?php echo "app3 재생성 확인 - 🍑 복숭아";
+<?php echo "app2 재확인 - 🥝 키위";
